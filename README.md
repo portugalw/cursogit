@@ -6,5 +6,3 @@ minha alteração;
 ```
 	npm install
 ```
-
-Alterando o read.me
